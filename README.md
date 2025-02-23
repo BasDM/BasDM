@@ -8,6 +8,7 @@ Currently studying computer science at AP University in Antwerp.
 - HTML + CSS + Javascript/Typescript
 - MySQL
 - MongoDB
+- Docker
 
 ## Frameworks I have worked with:
 - Angular
