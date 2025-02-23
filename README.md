@@ -5,6 +5,7 @@ Currently studying computer science at AP University in Antwerp.
 ## My skills:
 - C#
 - Java
+- Java Spring Boot
 - HTML + CSS + Javascript/Typescript
 
 ## Frameworks I have worked with:
