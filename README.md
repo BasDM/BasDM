@@ -13,5 +13,7 @@ Currently studying computer science at AP University in Antwerp.
 - ASP .NET
 - EF CORE
 - Java Spring Boot
+- Bootstrap
+- Tailwind CSS
   
 Find me on [LinkedIn](https://www.linkedin.com/in/bas-de-meurichy-668314298/)
