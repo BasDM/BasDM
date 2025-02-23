@@ -6,6 +6,8 @@ Currently studying computer science at AP University in Antwerp.
 - C#
 - Java
 - HTML + CSS + Javascript/Typescript
+- MySQL
+- MongoDB
 
 ## Frameworks I have worked with:
 - Angular
