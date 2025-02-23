@@ -15,5 +15,6 @@ Currently studying computer science at AP University in Antwerp.
 - Java Spring Boot
 - Bootstrap
 - Tailwind CSS
+- Monogame
   
 Find me on [LinkedIn](https://www.linkedin.com/in/bas-de-meurichy-668314298/)
