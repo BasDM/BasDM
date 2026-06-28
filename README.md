@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!<br>My name is Bas, I'm junior full stack developer from Belgium.<br>My goal is to create user friendly applications that impact the lives of its users.
+Hi!<br>My name is Bas, I'm a junior full stack developer from Belgium.<br>My goal is to create user friendly applications that impact the lives of its users.
 
 
 # 💻 Tech Stack:
