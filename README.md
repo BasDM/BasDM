@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!<br>My name is Bas, I'm an aspiring full stack developer from Belgium.<br>I'm currently studying for my bachelor's degree in computer science at AP College in Antwerp.
+Hi!<br>My name is Bas, I'm junior full stack developer from Belgium.<br>My goal is to create user friendly applications that impact the lives of its users.
 
 
 # 💻 Tech Stack:
